@@ -23,12 +23,6 @@ Developed by: ANISH MJ
 RegisterNumber:  212221230005
 */
 
-/*
-Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: Jegathish s
-RegisterNumber:  212221230041
-*/
-
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
